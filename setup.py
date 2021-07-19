@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="code_fetch",
-    version="1.0.3",
+    version="1.0.4",
     author="Mordy Waldo",
     author_email="imky171@gmail.com",
     description="A package to fetch single files from Github repos instead of cloning the whole thing",
