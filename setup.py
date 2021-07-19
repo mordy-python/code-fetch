@@ -20,7 +20,6 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    package_dir={"": "code_fetch"},
-    packages=setuptools.find_packages(where="code_fetch"),
+    packages=setuptools.find_packages(),
     python_requires=">=3.6",
 )
