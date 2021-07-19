@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="code-fetcher",
+    name="code-fetch",
     version="1.0.3",
     author="Mordy Waldo",
     author_email="imky171@gmail.com",
