@@ -7,11 +7,16 @@ Code fetch is a command line tool for fetching code from a single file on GitHub
 ## Installation
 
 Install the package from PyPi:
-    `pip install code_fetch` or `pip3 install code_fetch`
+
+`pip install code_fetch` or `pip3 install code_fetch`
+
 Install the package from source:
-    `git clone https://github.com/mordy-python/code-fetch.git`
-    `cd code-fetch`
-    `python setup.py install`
+
+`git clone https://github.com/mordy-python/code-fetch.git`
+
+`cd code-fetch`
+
+`python setup.py install`
 
 ## Usage
 
